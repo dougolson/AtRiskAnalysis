@@ -1,2 +1,2 @@
-Student retention analysis script. Combines absneces, GPA and F count to generate an at risk score and aid with early intervention. 
+Student retention analysis script. Combines absences, GPA and F count to generate an at risk score and aid with early intervention. 
 Input: raw data csv. Output: aggregated csv, soted by program and at-risk score, descending.
